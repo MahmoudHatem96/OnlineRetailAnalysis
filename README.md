@@ -1,2 +1,2 @@
-# OnlineRetailAnalysis
-A case study on an online retail using Analytical SQL
+# Case Study Questions:
+Provided in this directory the questions you need to answer using analytical SQL functions.
