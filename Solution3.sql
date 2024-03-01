@@ -42,7 +42,7 @@ consecutive_cte as(
                             customer_id
 ;
 ---------------------------------------------------------------
---Transactions does it take a customer to reach a spent threshold of 250 L.E
+--Average transactions does it take a customer to reach a spent threshold of 250 L.E
 with
     sum_cte as( 
                             select
