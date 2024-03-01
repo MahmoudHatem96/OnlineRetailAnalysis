@@ -9,4 +9,4 @@ A case study on an online retail using Analytical SQL
 - `Solutions`: SQL queries that were used in solving questions can be found here.
 
 ## Contact
-For questions or feedback, contact [MahmoudHatem96](link-to-profile).
+For questions or feedback, contact [MahmoudHatem96](https://github.com/MahmoudHatem96).
